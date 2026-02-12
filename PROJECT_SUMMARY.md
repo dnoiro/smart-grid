@@ -43,7 +43,7 @@ The project utilizes comprehensive measurement data from distribution network bu
 
 ### 3. Power Flow Analysis
 - Steady-state power flow calculations
-- Support for distribution-level voltage (likely 13.8kV or similar class based on bus numbering)
+- Support for distribution-level voltage analysis
 - Current flow analysis through distribution lines
 - Power balance verification across network nodes
 
@@ -75,9 +75,10 @@ The measurement framework supports analysis of:
 
 ## Implementation Details
 
-### Programming Language
+### Programming Language & Libraries
 - **Python**: Primary implementation language for flexibility and analysis capabilities
-- **Migration from MATLAB**: Re-implementation in Python for improved accessibility and integration
+- **Key Libraries**: pandas (data processing), numpy (numerical computations)
+- **Migration from MATLAB**: Re-implementation in Python for open-source accessibility, integration with modern data science ecosystem, and improved collaboration capabilities
 
 ### Data Management
 - CSV-based measurement data storage

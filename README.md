@@ -54,7 +54,7 @@ This framework supports analysis for:
 
 ## Implementation
 
-- **Language**: Python (migrated from MATLAB for improved flexibility)
+- **Language**: Python (migrated from MATLAB for open-source accessibility, integration with data science libraries, and modern tooling ecosystem)
 - **Data Format**: CSV-based measurement datasets
 - **Analysis Tools**: Jupyter notebooks for interactive analysis
 
