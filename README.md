@@ -32,7 +32,7 @@ This project implements sophisticated power system analysis tools for evaluating
 
 This framework supports engineering analysis for:
 - Battery Energy Storage Systems (BESS) siting and design
-- Microgrid development and integration studies  
+- Microgrid development and integration studies
 - Distributed energy resource interconnection planning
 - Power system optimization and risk assessment
 - Transmission and distribution steady-state analysis
